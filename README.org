@@ -1,0 +1,2 @@
+* extrapad
+a server-client application to use (older) android phones as hotkey panel for pc
