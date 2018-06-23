@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">extraPad</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pad">PadActivity</string>
+    <string name="button">Button Yey</string>
+</resources>
