@@ -1,2 +1,11 @@
 * extrapad
 a server-client application to use (older) android phones as hotkey panel for pc
+
+** features
+
+| feature            | server                | app                                      |
+|--------------------+-----------------------+------------------------------------------|
+| background picture | generate, send to app | resceive from server, display fullscreen |
+|                    |                       |                                          |
+|                    |                       |                                          |
+|                    |                       |                                          |
